@@ -19,6 +19,6 @@ var  number = a / b;
 }
 
 function inc(n) {
-  n++ = number
+  n = n += 1
   return number
 }
