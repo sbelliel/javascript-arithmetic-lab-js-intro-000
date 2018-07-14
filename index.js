@@ -8,7 +8,7 @@ var  number = a - b;
   return number
 }
 
-function multiiply(a,b) {
+function multiply(a,b) {
 var  number = a * b;
   return number
 }
